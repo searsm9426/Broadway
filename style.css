@@ -1,0 +1,56 @@
+@charset "UTF-8";
+.jumbotron.text-center {
+	background-image: url(hero.jpg);
+	background-size: cover;
+	background-position: center center;
+	padding-top: 120px;
+	padding-bottom: 120px;
+}
+.jumbotron.text-center .display-4 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color: #FFFFFF;
+	font-style: normal;
+	font-weight: 200;
+}
+.jumbotron.text-center .lead .btn.btn-lg.btn-outline-light {
+	background-color: hsla(0,0%,0%,0.00);
+	color: hsla(0,0%,100%,1.00);
+}
+.container .row .col-lg-4 {
+}
+#form1 {
+	background-image: url(contact.jpg);
+	background-size: cover;
+	background-position: center center;
+}
+#form1 .text-center {
+	color: hsla(0,0%,100%,1.00);
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.row .col-lg-12 label {
+	color: hsla(0,0%,100%,1.00);
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-weight: 600;
+}
+.row .col-lg-12 #submit {
+	background-color: hsla(0,0%,0%,0.00);
+	color: hsla(0,0%,100%,1.00);
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	margin-left: 14px;
+}
+.row .col-lg-6 label {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-weight: 600;
+}
+.row .col-lg-12 .row {
+	color: hsla(0,100%,100%,1.00);
+}
+.row .col-lg-12 .row {
+}
+.container .row .col-lg-6 {
+	color: hsla(0,100%,100%,1.00);
+}
+.from-control {
+}
